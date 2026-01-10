@@ -1,2 +1,7 @@
 # pet-qa-engener
-портфолио на должность qa-engener/qa-тестировщик
+Здраствуйте я lettexx начинающий qa-engener/qa-тестировщик
+
+## навыки:
+
+# 1 saucedemo
+[**Cheak list**](./saucedemo/Cheak-list.md) 
